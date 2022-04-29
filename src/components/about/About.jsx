@@ -8,8 +8,8 @@ import {MdFolderSpecial} from 'react-icons/md'
 const about = () => {
   return (
     <section id='about'>
-      <h5>Get to know</h5>
-      <h2>About me</h2>
+      <h5>¿Quién soy?</h5>
+      <h2>Sobre mí</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -22,20 +22,20 @@ const about = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon"/>
-              <h5>Experience</h5>
-              <small>16+ Years Working</small>
+              <h5>Experiencia</h5>
+              <small>16+ años de trabajo</small>
             </article>
 
             <article className="about__card">
               <ImBriefcase className="about__icon"/>
-              <h5>Corporations</h5>
-              <small>National and multinational</small>
+              <h5>Empresas</h5>
+              <small>Nacionales y Multinacionales</small>
             </article>
 
             <article className="about__card">
               <MdFolderSpecial className="about__icon"/>
-              <h5>Projects</h5>
-              <small>4+ Completed</small>
+              <h5>Proyectos</h5>
+              <small>4+ completados</small>
             </article>
           </div>
 
@@ -47,7 +47,7 @@ const about = () => {
           A nivel personal, tengo el objetivo de seguir creciendo en el mundo TI desarrollándome en los distintos lenguajes de programación que es, en definitiva, lo que más me apasiona.
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let´s Talk</a>
+          <a href="#contact" className='btn btn-primary'>¿Hablamos?</a>
         </div>
       </div>
     </section>

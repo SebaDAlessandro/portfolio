@@ -1,9 +1,9 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/foto-TabCtrol-PowerBI.png'
+import IMG2 from '../../assets/foto-SAP-BreakingBad.png'
+import IMG3 from '../../assets/Foto-SPA-Pokemon.png'
+import IMG4 from '../../assets/Foto-challengePage.png'
 
 /*=========== DO NOT USE THE IMAGE IN PRODUCTION =============*/
 
@@ -11,30 +11,30 @@ const data =[
   {
     id:1,
     image: IMG1,
-    title: 'Moneymaker - an NFT Search Engine',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/shots/17819862-Moneymaker-an-NFT-Search-Engine'
+    title: 'Power BI - Tablero de control',
+    github: 'https://github.com/SebaDAlessandro',
+    demo: 'https://youtu.be/COvIFUAva3Y'
   },
   {
     id:2,
     image: IMG2,
-    title: 'Moneymaker - an NFT Search Engine',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/shots/17819862-Moneymaker-an-NFT-Search-Engine'
+    title: 'SPA - Breaking Bad',
+    github: 'https://github.com/SebaDAlessandro/m2-breakingbad',
+    demo: 'https://youtu.be/nrHBFWm6-o8'
   },
   {
     id:3,
     image: IMG3,
-    title: 'Moneymaker - an NFT Search Engine',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/shots/17819862-Moneymaker-an-NFT-Search-Engine'
+    title: 'SPA - Pokemon',
+    github: 'https://github.com/SebaDAlessandro/PI-Pokemon',
+    demo: 'https://youtu.be/LEXLZZCfc4I'
   },
   {
     id:4,
     image: IMG4,
-    title: 'Moneymaker - an NFT Search Engine',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/shots/17819862-Moneymaker-an-NFT-Search-Engine'
+    title: 'Challenge - Oracle Alura Latam (encriptador)',
+    github: 'https://github.com/SebaDAlessandro/Alura-Challenge',
+    demo: 'https://lnkd.in/dbxnBiW7'
   },
 
 ]
@@ -42,7 +42,7 @@ const data =[
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
+      <h5>Trabajos Recientes</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">

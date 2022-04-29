@@ -17,8 +17,8 @@ import {SiPostman} from 'react-icons/si'
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>The Skills I Have</h5>
-      <h2>Experience</h2>
+      <h5>Mis habilidades Técnicas</h5>
+      <h2>Experiencia</h2>
 
       <div className="container experience__container">
         <div className="experience__fronted">

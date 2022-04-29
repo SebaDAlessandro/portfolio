@@ -1,7 +1,14 @@
 .services__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 3rem;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    margin: 1em auto;
 }
 
 .service {
@@ -59,6 +66,10 @@
     .service {
         height: auto;
     }
+
+    .video {
+        width: auto;
+    }
 }
 
 /*=========== MEDIA QUERIES (SMALL DIVICES) =============*/
@@ -67,5 +78,9 @@
     .services__container {
         grid-template-columns: 1fr;
         gap: 1.5rem;
+    }
+
+    .video {
+        width: auto;
     }
 }

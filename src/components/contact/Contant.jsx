@@ -30,14 +30,14 @@ const Contant = () => {
           <article className="contact__option">
           <HiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
-            <h5>sebadalessandro@hotmaill.com</h5>
+            <h5>sebadalessandro@hotmail.com</h5>
             {/* <a href="mailto:sebadalessandro@hotmail.com" target="_blank">Send a message</a> */}
           </article>
           <article className="contact__option">
           <BsWhatsapp className="contact__option-icon"/>
             <h4>WhatsApp</h4>
             <h5>(+54) 9 280 458 3832</h5>
-            <a href="http://api.whatsapp.com/send?phone=+5492804583832" target="_blank">Envíe un message</a>
+            <a href="http://api.whatsapp.com/send?phone=5492804583832" target="_blank">Envíe un message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}

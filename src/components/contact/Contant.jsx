@@ -45,7 +45,7 @@ const Contant = () => {
           <input type="text" name='name' placeholder="Ingrese su nombre completo" required/>
           <input type="email" name="email" placeholder="Tu Email" required/>
           <textarea name="message" rows="7" placeholder="Tu Message" required ></textarea>
-          <button type="submit" className='btn btn-primary'>Send Message</button>
+          <button type="submit" className='btn btn-primary'>Enviar</button>
         </form>
       </div>
     </section>

@@ -66,7 +66,7 @@ header {
 
 @media screen and (max-width: 1024px) {
     header {
-        height: 80vh;
+        height: 130vh;
     }
 
     .me{
@@ -79,12 +79,13 @@ header {
 
 @media screen and (max-width: 600px) {
     header {
-        height: 80vh;
+        height: 105vh;
     }
 
     .me{
-        width: 20rem;
-        left: calc(50% - 10rem);
+        width: 100%;
+        margin: 2rem auto 3rem;
+        left: 0.1rem; 
     }
 
     .header__social, .scroll__down {

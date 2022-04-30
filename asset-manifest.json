@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2c735716.css",
-    "main.js": "/portfolio/static/js/main.a9cdf485.js",
+    "main.css": "/portfolio/static/css/main.35c91485.css",
+    "main.js": "/portfolio/static/js/main.a658bcc2.js",
     "static/media/Foto-challengePage.png": "/portfolio/static/media/Foto-challengePage.12687e61463e763f5e9f.png",
     "static/media/FaceFronRed.jpg": "/portfolio/static/media/FaceFronRed.d91409fbe4eef9f38d6e.jpg",
     "static/media/Foto-SPA-Pokemon.png": "/portfolio/static/media/Foto-SPA-Pokemon.4eeca332829a589e29e9.png",
@@ -10,11 +10,11 @@
     "static/media/CV Sebastián D`Alessandro.pdf": "/portfolio/static/media/CV Sebastián D`Alessandro.75ce34b1bcd10ff8e838.pdf",
     "static/media/FaceFrontHappy.jpg": "/portfolio/static/media/FaceFrontHappy.91e20a8de92f6c911280.jpg",
     "index.html": "/portfolio/index.html",
-    "main.2c735716.css.map": "/portfolio/static/css/main.2c735716.css.map",
-    "main.a9cdf485.js.map": "/portfolio/static/js/main.a9cdf485.js.map"
+    "main.35c91485.css.map": "/portfolio/static/css/main.35c91485.css.map",
+    "main.a658bcc2.js.map": "/portfolio/static/js/main.a658bcc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c735716.css",
-    "static/js/main.a9cdf485.js"
+    "static/css/main.35c91485.css",
+    "static/js/main.a658bcc2.js"
   ]
 }

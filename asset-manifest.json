@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.35c91485.css",
-    "main.js": "/portfolio/static/js/main.a04ab459.js",
+    "main.js": "/portfolio/static/js/main.466ef0ec.js",
     "static/media/Foto-challengePage.png": "/portfolio/static/media/Foto-challengePage.12687e61463e763f5e9f.png",
     "static/media/FaceFronRed.jpg": "/portfolio/static/media/FaceFronRed.d91409fbe4eef9f38d6e.jpg",
     "static/media/Foto-SPA-Pokemon.png": "/portfolio/static/media/Foto-SPA-Pokemon.4eeca332829a589e29e9.png",
@@ -11,10 +11,10 @@
     "static/media/FaceFrontHappy.jpg": "/portfolio/static/media/FaceFrontHappy.91e20a8de92f6c911280.jpg",
     "index.html": "/portfolio/index.html",
     "main.35c91485.css.map": "/portfolio/static/css/main.35c91485.css.map",
-    "main.a04ab459.js.map": "/portfolio/static/js/main.a04ab459.js.map"
+    "main.466ef0ec.js.map": "/portfolio/static/js/main.466ef0ec.js.map"
   },
   "entrypoints": [
     "static/css/main.35c91485.css",
-    "static/js/main.a04ab459.js"
+    "static/js/main.466ef0ec.js"
   ]
 }

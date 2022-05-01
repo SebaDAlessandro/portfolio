@@ -37,7 +37,7 @@ const Contant = () => {
           <BsWhatsapp className="contact__option-icon"/>
             <h4>WhatsApp</h4>
             <h5>(+54) 9 280 458 3832</h5>
-            <a href="http://api.whatsapp.com/send?phone=5492804583832" target="_blank">Envíe un message</a>
+            <a href="http://api.whatsapp.com/send?phone=5492804583832" target="_blank">Envíe un mensage</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}

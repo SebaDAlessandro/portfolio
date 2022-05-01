@@ -6,7 +6,7 @@ const Video = () => {
   return (
     <section id='video'>
       <h5>Un poco mas de mí</h5>
-      <h2>Video Testimonial</h2>
+      <h2>Video</h2>
       <div class="video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/LuBz_GhRncs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>

@@ -4,6 +4,7 @@ import IMG1 from '../../assets/foto-TabCtrol-PowerBI.png'
 import IMG2 from '../../assets/foto-SAP-BreakingBad.png'
 import IMG3 from '../../assets/Foto-SPA-Pokemon.png'
 import IMG4 from '../../assets/Foto-challengePage.png'
+import IMG5 from '../../assets/2do-challenge-Alura.png'
 
 /*=========== DO NOT USE THE IMAGE IN PRODUCTION =============*/
 
@@ -35,6 +36,13 @@ const data =[
     title: 'Challenge - Oracle Alura Latam (encriptador)',
     github: 'https://github.com/SebaDAlessandro/Alura-Challenge',
     demo: 'https://lnkd.in/dbxnBiW7'
+  },
+  {
+    id:5,
+    image: IMG5,
+    title: '2do Challenge - Oracle Alura Latam (ahorcado)',
+    github: 'https://github.com/SebaDAlessandro/ahorcado_alura',
+    demo: 'https://sebadalessandro.github.io/ahorcado_alura/'
   },
 
 ]
